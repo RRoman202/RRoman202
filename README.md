@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## Статистика GitHub
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rroman202&layout=compact&hide=cython,c,python,jupyter)](https://github.com/djostit/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rroman202&layout=compact&hide=cython,c,python,jupyternotebook)](https://github.com/djostit/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=rroman202)
 <!--
